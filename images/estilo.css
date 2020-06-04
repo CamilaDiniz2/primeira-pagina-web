@@ -1,0 +1,15 @@
+.menu{
+  margin-left: 30px;
+}
+
+.itemMenu{
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 16px;
+}
+
+.itemMenu:hover{
+  border-bottom: 1px solid #fff;
+  letter-spacing: 0.05em;
+}
+
